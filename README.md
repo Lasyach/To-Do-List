@@ -1,5 +1,4 @@
 # To-Do-List
-# Simple TO-DO List App
 
 A lightweight and efficient **TO-DO List web app** built using **Vite + React**. This app allows you to:
 
