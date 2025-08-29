@@ -1,7 +1,7 @@
 # To-Do-List
 # Simple TO-DO List App
 
-A lightweight and efficient **TO-DO List web app** built using **Vite + JavaScript**. This app allows you to:
+A lightweight and efficient **TO-DO List web app** built using **Vite + React**. This app allows you to:
 
 - Add tasks
 - Delete tasks
@@ -14,7 +14,7 @@ Built for speed and simplicity — perfect for everyday task management.
 - [Vite](https://vitejs.dev/) – Fast front-end build tool
 - HTML5 – Structure
 - CSS3 – Styling
-- Vanilla JavaScript – Functionality
+- JavaScript – Functionality
 
 ## Features
 
